@@ -3,8 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Ibrahim Bilal',
-    description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    description: I make coding more fun with code.
+      'Ibrahim Bilal is an epic gamer, coder and an avid reader he likes minecraft.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Ibrahim Bilal',
+        short_name: "Ibrahim Bilal',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
