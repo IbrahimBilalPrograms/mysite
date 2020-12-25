@@ -20,7 +20,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Ibrahim Bilal',
-        short_name: "IbrahimBilal',
+        short_name: 'IbrahimBilal',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
