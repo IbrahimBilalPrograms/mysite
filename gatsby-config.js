@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ibrahim Bilal',
     description: 'I make coding more fun with code.',
-      'Ibrahim Bilal is an epic gamer, coder and an avid reader he likes minecraft.',
+      'Ibrahim Bilal is an epic gamer, coder and an avid reader he likes minecraft.'
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
